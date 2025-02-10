@@ -15,13 +15,13 @@ The result will be displayed below the button.
 
 Application Preview For your better understanding
 
-![Finance1](https://github.com/user-attachments/assets/a998c119-5f61-489f-b53a-212d93b74cb5)
+![Image](https://github.com/user-attachments/assets/8a22f4a8-047d-4b4c-99f0-c83d095f7faf)
 
-![Finance2](https://github.com/user-attachments/assets/e21f3574-b4c2-4772-95d5-c50c6c9d6730)
+![Image](https://github.com/user-attachments/assets/f068478f-afdd-4254-8458-c923187059a8)
 
-![Finance3](https://github.com/user-attachments/assets/95388a5e-e76c-4539-bc38-34c2c99b3345)
+![Image](https://github.com/user-attachments/assets/e959fe17-b9f9-4b9f-a43f-f224565a65cf)
 
-![Finance4](https://github.com/user-attachments/assets/176059de-cec1-486c-85ac-b167f54feff2)
+![Image](https://github.com/user-attachments/assets/6dc97977-faf2-41ef-8fe7-5ca32d2492f7)
 
 
 
